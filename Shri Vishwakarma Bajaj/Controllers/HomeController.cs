@@ -22,7 +22,7 @@ namespace Shri_Vishwakarma_Bajaj.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "";
 
             return View();
         }
